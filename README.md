@@ -1,2 +1,2 @@
-# lazetagram
+# Instafeed
  Clone instagram
